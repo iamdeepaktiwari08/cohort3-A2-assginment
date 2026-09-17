@@ -2,4 +2,4 @@
 Design 01
 
 
-![Website Screenshot] (./index.html.png)
+![Website Screenshot] (index.html.png)
